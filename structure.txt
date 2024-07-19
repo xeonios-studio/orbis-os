@@ -1,0 +1,95 @@
+adm
+app_tmp
+data
+  ->fd
+  ->usb
+eap_user
+eap_vsh
+hdd
+host
+hostapp
+mnt
+  ->disc
+  ->ext0
+  ->pfs
+  ->rnps
+  ->sandbox
+    ->pfsmnt
+    ->NPXS20001_00
+    ->NPXS21000_00
+    ->NPXS21002_00
+    ->xx....
+preinst
+ ->common
+ ->priv
+   ->...
+priinst2
+  ->app
+    ->CUSA00001
+system
+  ->common
+    ->cert
+    ->ect
+    ->font2
+    ->lib
+      ->remote-web-
+      inspector
+      ->theme
+    mms_ro
+    text_layout
+      ->icu
+        ->...
+    webkit
+  priv
+    ->etc
+    ->lib
+    ->hid_config_service_ro
+    ->...
+  ->sys
+  ->vsh
+    ->app
+    ->sce_video_service
+system_data
+  ->common
+  ->game
+  ->httpcache
+  ->nobackup
+  ->playgo
+  ->priv
+    ->...
+  ->savedata
+  ->settings
+system_ex
+system_tmp
+update
+  ->PS4UPDATE.PUP
+  ->PS4UPDATE.PUP.net.temp
+usb
+user
+  ->app
+  ->appmeta
+  ->av_contens
+  ->bgft
+  ->common
+    ->playready
+  ->data
+  ->download
+    ->CUSAxxxxx
+  ->home
+  ->license
+  ->music_player_service
+  ->patch
+  ->priv
+  ->savedata
+  ->settings
+  ->sshared
+  ->system
+    ->etc
+    ->rnps
+    ->share
+    ->updater
+      ->eap
+    ->webkit
+  ->temp
+  trophy
+  
